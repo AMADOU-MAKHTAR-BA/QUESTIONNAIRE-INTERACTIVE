@@ -14,11 +14,11 @@ const tableau = [
   }, 
   {
     question :"COMMENT S´APPELLE LE NOBLE ZANPAKUTŌ DE SA MAJESTÉ ?",
-    reponse :"KIOKA SUIGETSU"
+    reponse :"KIOKA SUIGËTSU"
   }, 
     {
     question :" QUEL ÉTAIT L'OBJECTIF DE SA MAJESTÉ SÕSUKE AIZEN ?",
-    reponse :"LE PALAIS ROYAL"
+    reponse :"LE SOÛL KING"
   },
   {
     question :"CONNAIS L'ÉTENDU DE LA PUISSANCE DU NOBLE KIOKA SUIGETSU ?",
